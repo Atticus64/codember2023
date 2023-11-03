@@ -9,9 +9,9 @@ Al menos en Rust se hara el intento :sweat_smile:
 
 Proximamente en Ocaml 🐫
 
-|                           Reto                           |      Solucion      |
-| :------------------------------------------------------: | :----------------: |
-|     Espía y los mensajes encriptados            				 | :heavy_check_mark: |
+|                           Reto                           |      Solucion 🦀   | Solucion 🐫 |
+| :------------------------------------------------------: | :----------------: | :----------------: | 
+|     Espía y los mensajes encriptados            		   | :heavy_check_mark: | :pushpin:
 
 ```sh
 .
