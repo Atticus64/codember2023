@@ -16,6 +16,7 @@ Proximamente en Ocaml 🐫
 ```sh
 .
 ├── Challenge-01
+│  ├── README.md // instructions
 │  ├── main.rs
 │  └── message.txt
 ├── Cargo.toml
