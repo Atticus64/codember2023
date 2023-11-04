@@ -33,3 +33,6 @@ cargo test
 ```
 
 ## Soluciones de otros usuarios
+
+* https://github.com/cosmoart/codember Cosmo (JavaScript)
+* 
