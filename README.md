@@ -13,7 +13,7 @@ Proximamente en Ocaml 🐫
 
 |                           Reto                           |      Solucion 🦀   | Solucion 🐫 |
 | :------------------------------------------------------: | :----------------: | :----------------: | 
-|     Espía y los mensajes encriptados            		   | :heavy_check_mark: | :pushpin:
+|     Espía y los mensajes encriptados            		   | :heavy_check_mark: | :heavy_check_mark:
 
 ```sh
 .
