@@ -7,8 +7,6 @@ By [Midudev](https://github.com/midudev) :space_invader:
 
 ## Implementaciones de los retos de [Codember](https://codember.dev/) en Rust y Ocaml
 
-Al menos en Rust se hara el intento :sweat_smile:
-
 Proximamente en Ocaml 🐫
 
 |                           Reto                           |      Solucion 🦀   | Solucion 🐫 |
